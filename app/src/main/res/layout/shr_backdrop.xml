@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NEWS HUNT"
+        android:id="@+id/buisness"
+
+        android:textSize="20sp"
+        />
+    <View
+        android:layout_width="56dp"
+        android:layout_height="1dp"
+        android:layout_margin="16dp"
+        android:background="@color/oink" />
+
+    <TextView
+        android:textSize="15sp"
+        android:textColor="#fff"
+        android:padding="10dp"
+        android:textAllCaps="true"
+        android:fontFamily="@font/rubiklight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/backdropselcted"
+        android:text="Buisiness" />
+
+    <TextView
+        android:textSize="15sp"
+        android:textColor="#fff"
+        android:padding="10dp"
+        android:textAllCaps="true"
+        android:fontFamily="@font/rubiklight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Technology" />
+
+    <TextView
+        android:textSize="15sp"
+        android:textColor="#fff"
+        android:padding="10dp"
+        android:textAllCaps="true"
+        android:fontFamily="@font/rubiklight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="General" />
+
+    <TextView
+        android:textSize="15sp"
+        android:textColor="#fff"
+        android:padding="10dp"
+        android:textAllCaps="true"
+        android:fontFamily="@font/rubiklight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Science" />
+
+    <TextView
+        android:textSize="15sp"
+        android:textColor="#fff"
+        android:padding="10dp"
+        android:textAllCaps="true"
+        android:fontFamily="@font/rubiklight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sports" />
+
+    <TextView
+        android:textSize="15sp"
+        android:textColor="#fff"
+        android:padding="10dp"
+        android:textAllCaps="true"
+        android:fontFamily="@font/rubiklight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Entertainment" />
+
+    <View
+        android:layout_width="56dp"
+        android:layout_height="1dp"
+        android:layout_margin="16dp"
+        android:background="@color/oink" />
+
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose your interests " />
+
+</merge>

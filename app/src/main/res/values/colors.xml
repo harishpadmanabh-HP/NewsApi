@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#FFC000</color>
+    <color name="colorAccent">#0336FF</color>
+    <color name="yellowtheme">#F3FFDE03</color>
+    <color name="oink">#FF0266</color>
+
+    <color name="textColorPrimary">#442C2E</color>
+    <color name="toolbarIconColor">@color/textColorPrimary</color>
+    <color name="loginPageBackgroundColor">#FFFFFF</color>
+    <color name="textInputOutlineColor">#FBB8AC</color>
+    <color name="productGridBackgroundColor">#FFFBFA</color>
+<color name="shirepink">#FBB8AC</color>
+</resources>
